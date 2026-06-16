@@ -1,11 +1,11 @@
 Relay                           G  L  S  0  1  C  2  3  4  P  F  I  B  5  Z  A  D  6  Q  7  8  9  
 wss://nostr.data.haus           ⬛ 🟩 🟩 ⬛ 🟩 ⬛ 🟩 ⬛ ⬛ ⬛ ⬛ 🟩 🟩 🟩 🟥 ⬛ ⬛ 🟩 ⬛ 🟩 🟥 ⬛ 
 wss://kotukonostr.onrender.com  ⬛ ⬛ ⬜ ⬛ ⬜ 🟥 ⬜ ⬛ ⬛ ⬛ ⬛ ⬜ ⬜ ⬜ 🟥 🟩 ⬛ ⬜ ⬛ ⬜ 🟥 ⬛ 
-wss://relay.wavlake.com         ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ ⬜ ⬛ ⬛ ⬛ ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ ⬛ ⬜ ⬛ ⬜ 🟥 ⬛ 
 wss://relay.camelus.app         ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ ⬜ ⬛ ⬛ ⬛ ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ ⬛ ⬜ ⬛ ⬜ 🟥 ⬛ 
-wss://relay.artio.inf.unibe.ch  ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ ⬜ ⬛ ⬛ ⬛ ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ ⬛ ⬜ ⬛ ⬜ 🟥 ⬛ 
 wss://nostr.robosats.org        ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ ⬜ ⬛ ⬛ ⬛ ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ ⬛ ⬜ ⬛ ⬜ 🟥 ⬛ 
 wss://relay.dyne.org            ⬛ ⬜ ⬜ ⬛ ⬜ 🟥 ⬜ ⬛ ⬛ ⬛ ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ ⬛ ⬜ ⬛ ⬜ 🟥 ⬛ 
 wss://relay.ru.ac.th            ⬛ ⬜ ⬜ ⬛ ⬜ 🟥 ⬜ ⬛ ⬛ ⬛ ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ ⬛ ⬜ ⬛ ⬜ 🟥 ⬛ 
 wss://kasztanowa.bieda.it       ⬛ ⬜ ⬜ ⬛ ⬜ 🟥 ⬜ ⬛ ⬛ ⬛ ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ ⬛ ⬜ ⬛ ⬜ 🟥 ⬛ 
 wss://nostr2.thalheim.io        ⬛ ⬜ ⬜ ⬛ ⬜ 🟥 ⬜ ⬛ ⬛ ⬛ ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ ⬛ ⬜ ⬛ ⬜ 🟥 ⬛ 
+wss://relay1.privkey.io         ⬛ ⬜ ⬜ ⬛ ⬜ 🟥 ⬜ ⬛ ⬛ ⬛ ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ ⬛ ⬜ ⬛ ⬜ 🟥 ⬛ 
+wss://relay.angor.io            ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ ⬜ ⬛ ⬛ ⬛ ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ ⬛ ⬛ ⬛ ⬜ 🟥 ⬛ 
