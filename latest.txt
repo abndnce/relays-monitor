@@ -3,7 +3,7 @@ wss://nostr.data.haus           ⬛ 🟩 🟩 ⬛ 🟩 ⬛ 🟥 ⬛ ⬛ ⬛ ⬛ 
 wss://kotukonostr.onrender.com  ⬛ ⬛ ⬜ ⬛ ⬜ 🟥 🟥 ⬛ ⬛ ⬛ ⬛ ⬜ ⬜ ⬜ 🟥 🟩 ⬛ ⬜ ⬛ ⬜ 🟥 ⬛ 
 wss://relay.camelus.app         ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 ⬛ ⬛ ⬛ ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ ⬛ ⬜ ⬛ ⬜ 🟥 ⬛ 
 wss://strfry.bonsai.com         ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 ⬛ ⬛ ⬛ ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ ⬛ ⬜ ⬛ ⬜ 🟥 ⬛ 
-wss://relay.artio.inf.unibe.ch  ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 ⬛ ⬛ ⬛ ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ ⬛ ⬜ ⬛ ⬜ 🟥 ⬛ 
+wss://relay.artio.inf.unibe.ch  ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 ⬛ ⬛ ⬛ ⬛ ⬜ ⬜ ⬜ 🟥 🟥 ⬛ ⬜ ⬛ ⬜ 🟥 ⬛ 
 wss://nostr.robosats.org        ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 ⬛ ⬛ ⬛ ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ ⬛ ⬜ ⬛ ⬜ 🟥 ⬛ 
 wss://chorus.bonsai.com         ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 ⬛ ⬛ ⬛ ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ ⬛ ⬜ ⬛ ⬜ 🟥 ⬛ 
 wss://relay.dyne.org            ⬛ ⬜ ⬜ ⬛ ⬜ 🟥 🟥 ⬛ ⬛ ⬛ ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ ⬛ ⬜ ⬛ ⬜ 🟥 ⬛ 
