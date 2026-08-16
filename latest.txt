@@ -5,7 +5,7 @@ wss://relay.camelus.app         ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 ⬛ ⬛ 🟥 ⬛ �
 wss://strfry.bonsai.com         ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 ⬛ ⬛ 🟥 ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ 🟥 ⬜ ⬛ ⬜ 🟥 ⬛ 
 wss://relay.artio.inf.unibe.ch  ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 ⬛ ⬛ 🟥 ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ 🟥 ⬜ ⬛ ⬜ 🟥 ⬛ 
 wss://nostr.robosats.org        ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 ⬛ ⬛ 🟥 ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ 🟥 ⬜ ⬛ ⬜ 🟥 ⬛ 
-wss://chorus.bonsai.com         ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 ⬛ ⬛ 🟥 ⬛ ⬜ ⬜ ⬜ 🟥 🟥 🟥 ⬜ ⬛ ⬜ 🟥 ⬛ 
+wss://chorus.bonsai.com         ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 ⬛ ⬛ 🟥 ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ 🟥 ⬜ ⬛ ⬜ 🟥 ⬛ 
 wss://relay.dyne.org            ⬛ ⬜ ⬜ ⬛ ⬜ 🟥 🟥 ⬛ ⬛ 🟥 ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ 🟥 ⬜ ⬛ ⬜ 🟥 ⬛ 
 wss://relay.ru.ac.th            ⬛ ⬜ ⬜ ⬛ ⬜ 🟥 🟥 ⬛ ⬛ 🟥 ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ 🟥 ⬜ ⬛ ⬜ 🟥 ⬛ 
 wss://kasztanowa.bieda.it       ⬛ ⬜ ⬜ ⬛ ⬜ 🟥 🟥 ⬛ ⬛ 🟥 ⬛ ⬜ ⬜ ⬜ 🟥 ⬛ 🟥 ⬜ ⬛ ⬜ 🟥 ⬛ 
