@@ -158,14 +158,14 @@ function assignSymbols(names: string[]): Map<string, string> {
   return sym;
 }
 
-function grid(
-  relays: {
-    url: string;
-    short: string;
-    filters: Map<string, string>;
-    score: number;
-  }[],
-) {
+type RelayResult = {
+  url: string;
+  short: string;
+  filters: Map<string, string>;
+  score: number;
+};
+
+function grid(relays: RelayResult[], allRelays: RelayResult[] = relays) {
   const order = new Map<string, number>();
   for (const r of relays)
     for (const k of r.filters.keys())
@@ -174,16 +174,35 @@ function grid(
     (a, b) => shareWeight(b) - shareWeight(a) || a.localeCompare(b),
   );
 
-  const cols = assignSymbols(names); // filterName → display symbol
-  const syms = names.map((n) => cols.get(n)!); // ordered symbols
+  // Collapse columns with the same verdict on every checked (non-test) relay
+  // into an "all {verdict}: [filters]" note instead of a table column.
+  const uniform = new Map<string, string>(); // filterName → shared verdict
+  for (const n of names) {
+    let verdict = "";
+    let same = true;
+    for (const r of allRelays) {
+      if (isTest(r)) continue;
+      const v = r.filters.get(n) ?? "blocked";
+      if (!verdict) verdict = v;
+      else if (v !== verdict) {
+        same = false;
+        break;
+      }
+    }
+    if (same && verdict) uniform.set(n, verdict);
+  }
+  const kept = names.filter((n) => !uniform.has(n));
+
+  const cols = assignSymbols(kept); // filterName → display symbol
+  const syms = kept.map((n) => cols.get(n)!); // ordered symbols
 
   const rows = relays.map((r) =>
-    names.map((n) => r.filters.get(n) ?? "blocked"),
+    kept.map((n) => r.filters.get(n) ?? "blocked"),
   );
 
   // First-unblocked: skip test entries so they don't steal green squares
   const first = new Map<number, number>();
-  for (let c = 0; c < names.length; c++)
+  for (let c = 0; c < kept.length; c++)
     for (let r = 0; r < relays.length; r++)
       if (!isTest(relays[r]) && rows[r][c] === "unblocked") {
         first.set(c, r);
@@ -196,15 +215,13 @@ function grid(
   // Header cell = symbol(1) + 2 spaces = 3 dw.
   const colH = (i: number) => dwPad(syms[i], 3);
   const colD = (c: number, r: number) => {
-    const g = first.get(c) === r && rows[r][c] === "unblocked";
-    const sq =
-      g && rows[r][c] === "unblocked"
-        ? GREEN
-        : rows[r][c] === "unblocked"
-          ? WHITE
-          : rows[r][c] === "error"
-            ? RED
-            : BLACK;
+    const s = rows[r][c];
+    if (s === undefined)
+      throw new Error(`grid: missing verdict at row ${r} col ${c}`);
+    if (s !== "blocked" && s !== "unblocked" && s !== "error")
+      throw new Error(`grid: unexpected verdict "${s}" at row ${r} col ${c}`);
+    const g = first.get(c) === r && s === "unblocked";
+    const sq = g ? GREEN : s === "unblocked" ? WHITE : s === "error" ? RED : BLACK;
     return sq + " ";
   };
   const pad = (n: string, cells: string[]) =>
@@ -213,20 +230,32 @@ function grid(
   const lines = [
     pad(
       "Relay",
-      names.map((_, i) => colH(i)),
+      kept.map((_, i) => colH(i)),
     ),
   ];
   for (let r = 0; r < relays.length; r++)
     lines.push(
       pad(
         relays[r].short,
-        names.map((_, c) => colD(c, r)),
+        kept.map((_, c) => colD(c, r)),
       ),
     );
 
+  // "all {unblocked,error,blocked}: [filters]" notes for collapsed columns
+  const notes: string[] = [];
+  const grouped = new Map<string, string[]>();
+  for (const [n, v] of uniform) {
+    if (!grouped.has(v)) grouped.set(v, []);
+    grouped.get(v)!.push(n);
+  }
+  for (const v of ["unblocked", "error", "blocked"]) {
+    const list = grouped.get(v);
+    if (list?.length) notes.push(`all ${v}: ${list.join(", ")}`);
+  }
+
   return {
-    lines: lines.join("\n"),
-    syms: names.map((n, i) => `${syms[i]}: ${n}`),
+    lines: [...lines, ...(notes.length ? ["", ...notes] : [])].join("\n"),
+    syms: kept.map((n, i) => `${syms[i]}: ${n}`),
   };
 }
 
@@ -337,11 +366,14 @@ const top = rankTop(results, TOP_N);
 console.log(`\nTop ${top.length} (of ${results.length} successful):`);
 for (const r of top) console.log(`  ${r.url}  (${r.score})`);
 
-const { lines: g, syms } = grid(top);
+const { lines: g, syms } = grid(top, results);
 console.log("\n" + g);
 
 // compare (store full URLs for fidelity)
-const prevLines = grid(top.map((r) => ({ ...r, short: r.url }))).lines;
+const prevLines = grid(
+  top.map((r) => ({ ...r, short: r.url })),
+  results,
+).lines;
 const prev = existsSync(RESULTS) ? readFileSync(RESULTS, "utf-8") : null;
 if (prev === prevLines) {
   console.log("\nNo change.");
