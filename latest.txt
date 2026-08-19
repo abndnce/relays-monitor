@@ -1,15 +1,15 @@
 Relay                           L  0  C  I  B  1  A  S  
 wss://nostr.data.haus           🟩 🟩 ⬛ 🟩 🟩 🟩 ⬛ 🟩 
-wss://kotukonostr.onrender.com  ⬛ ⬜ ⬛ ⬜ ⬜ ⬜ 🟩 ⬜ 
+wss://kotukonostr.onrender.com  ⬛ ⬜ 🟥 ⬜ ⬜ ⬜ 🟩 ⬜ 
 wss://relay.camelus.app         ⬜ ⬜ ⬛ ⬜ ⬜ ⬜ ⬛ ⬜ 
 wss://strfry.bonsai.com         ⬜ ⬜ ⬛ ⬜ ⬜ ⬜ ⬛ ⬜ 
 wss://relay.artio.inf.unibe.ch  ⬜ ⬜ ⬛ ⬜ ⬜ ⬜ ⬛ ⬜ 
 wss://nostr.robosats.org        ⬜ ⬜ ⬛ ⬜ ⬜ ⬜ ⬛ ⬜ 
 wss://chorus.bonsai.com         ⬜ ⬜ ⬛ ⬜ ⬜ ⬜ ⬛ ⬜ 
-wss://relay.dyne.org            ⬜ ⬜ ⬛ ⬜ ⬜ ⬜ ⬛ ⬜ 
-wss://relay.ru.ac.th            ⬜ ⬜ ⬛ ⬜ ⬜ ⬜ ⬛ ⬜ 
-wss://kasztanowa.bieda.it       ⬜ ⬜ ⬛ ⬜ ⬜ ⬜ ⬛ ⬜ 
+wss://relay.dyne.org            ⬜ ⬜ 🟥 ⬜ ⬜ ⬜ ⬛ ⬜ 
+wss://relay.ru.ac.th            ⬜ ⬜ 🟥 ⬜ ⬜ ⬜ ⬛ ⬜ 
+wss://kasztanowa.bieda.it       ⬜ ⬜ 🟥 ⬜ ⬜ ⬜ ⬛ ⬜ 
 
 all unblocked: securly, sophos
-all error: cisco, lanschool, zscaler, dnsfilter, deldao
-all blocked: goguardian, goguardian_ai, gaggle, palo, fortiguard, qustodio, barracuda
+all error: lanschool, zscaler, dnsfilter, deldao
+all blocked: goguardian, goguardian_ai, gaggle, content-keeper, palo, fortiguard, qustodio, barracuda
