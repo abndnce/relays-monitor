@@ -11,5 +11,5 @@ wss://relay.ru.ac.th            ⬜ ⬜ 🟥 ⬜ ⬜ ⬜ ⬛ ⬜
 wss://kasztanowa.bieda.it       ⬜ ⬜ 🟥 ⬜ ⬜ ⬜ ⬛ ⬜ 
 
 all unblocked: securly, sophos
-all error: lanschool, zscaler, dnsfilter, deldao
-all blocked: goguardian, goguardian_ai, gaggle, content-keeper, palo, fortiguard, qustodio, barracuda
+all error: lanschool, palo, zscaler, dnsfilter, deldao
+all blocked: goguardian, goguardian_ai, gaggle, content-keeper, fortiguard, qustodio, barracuda
