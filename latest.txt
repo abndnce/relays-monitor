@@ -1,15 +1,15 @@
-Relay                            G  L  C  0  I  B  1  A  S  2  3  D  F  
-wss://nostr.data.haus            ⬛ 🟩 🟩 ⬛ 🟩 🟩 🟩 ⬛ 🟩 ⬛ 🟩 ⬛ 🟥 
-wss://relayone.soundhsa.com      ⬛ ⬜ ⬜ ⬛ ⬜ ⬜ ⬜ 🟩 ⬛ ⬛ ⬜ ⬛ 🟥 
-wss://relay.camelus.app          ⬛ ⬜ ⬜ ⬛ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ ⬜ ⬛ 🟥 
-wss://relay.nostriot.com         ⬛ ⬜ ⬜ ⬛ ⬜ ⬜ ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 
-wss://relay.angor.io             ⬛ ⬜ ⬜ ⬛ ⬜ ⬜ ⬜ ⬛ ⬛ ⬛ ⬜ ⬛ 🟥 
-wss://relay2.angor.io            ⬛ ⬜ ⬜ ⬛ ⬜ ⬜ ⬜ ⬛ ⬛ ⬛ ⬜ ⬛ 🟥 
-wss://relay.dwadziesciajeden.pl  ⬛ ⬜ ⬜ ⬛ ⬜ ⬜ ⬜ ⬛ ⬛ ⬛ ⬜ ⬛ 🟥 
-wss://relay.mostro.network       ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ ⬜ ⬛ ⬜ ⬛ ⬜ ⬛ 🟥 
-wss://nostr.vulpem.com           ⬛ ⬜ ⬜ ⬛ ⬜ ⬛ ⬜ ⬜ ⬛ ⬛ ⬜ ⬛ 🟥 
-wss://nostr.thalheim.io          ⬛ ⬜ ⬜ ⬛ ⬜ ⬜ ⬛ ⬛ ⬜ ⬛ ⬜ ⬛ 🟥 
+Relay                            L  C  I  B  0  A  S  1  F  
+wss://nostr.data.haus            🟩 🟩 🟩 🟩 🟩 ⬛ 🟩 ⬛ 🟥 
+wss://relayone.soundhsa.com      ⬜ ⬜ ⬜ ⬜ ⬜ 🟩 ⬛ ⬛ 🟥 
+wss://relay.camelus.app          ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 
+wss://relay.nostriot.com         ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬜ ⬛ 🟥 
+wss://relay.angor.io             ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ ⬛ 🟥 
+wss://relay2.angor.io            ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ ⬛ 🟥 
+wss://relay.dwadziesciajeden.pl  ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ ⬛ 🟥 
+wss://relay.mostro.network       ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ ⬜ ⬛ 🟥 
+wss://nostr.vulpem.com           ⬜ ⬜ ⬜ ⬛ ⬜ ⬜ ⬛ ⬛ 🟥 
+wss://nostr.thalheim.io          ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ ⬜ ⬛ 🟥 
 
-all unblocked: goguardian_ai, lanschool
+all unblocked: goguardian_ai, lanschool, sophos
 all error: palo, dnsfilter
-all blocked: securly, linewize, gaggle, fortiguard, smoothwall
+all blocked: goguardian, securly, linewize, gaggle, content-keeper, fortiguard, smoothwall, deldao
