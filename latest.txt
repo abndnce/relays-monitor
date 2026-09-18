@@ -1,14 +1,15 @@
-Relay                                   G  L  S  0  1  C  2  3  F  I  B  4  A  5  6  7  D  8  
-wss://nostr.dlcdevkit.com               ⬛ 🟩 ⬛ 🟩 ⬛ 🟩 🟩 ⬛ ⬛ 🟩 🟩 🟩 🟩 🟩 ⬛ 🟩 ⬛ 🟥 
-wss://relay.dyne.org                    ⬛ ⬜ ⬛ ⬜ ⬛ ⬜ ⬜ ⬛ ⬛ ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 
-wss://nostr.data.haus                   ⬛ ⬜ ⬛ ⬜ ⬛ ⬜ ⬜ ⬛ ⬛ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ ⬜ ⬛ 🟥 
-wss://relay.camelus.app                 ⬛ ⬜ ⬛ ⬜ ⬛ ⬜ ⬜ ⬛ ⬛ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ ⬜ ⬛ 🟥 
-wss://relayone.soundhsa.com             ⬛ ⬜ ⬛ ⬜ ⬛ ⬜ ⬜ ⬛ ⬛ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ ⬜ ⬛ 🟥 
-wss://relay.artio.inf.unibe.ch          ⬛ ⬜ ⬛ ⬜ ⬛ ⬜ ⬜ ⬛ ⬛ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ ⬜ ⬛ 🟥 
-wss://relay.paulstephenborile.com       ⬛ ⬜ ⬛ ⬜ ⬛ ⬜ ⬜ ⬛ ⬛ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ ⬜ ⬛ 🟥 
-wss://nostr-relay.nextblockvending.com  ⬛ ⬜ ⬛ ⬜ ⬛ ⬜ ⬜ ⬛ ⬛ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ ⬜ ⬛ 🟥 
-wss://relay.mappingbitcoin.com          ⬛ ⬜ ⬛ ⬜ ⬛ ⬜ ⬜ ⬛ ⬛ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ ⬜ ⬛ 🟥 
-wss://relay.ru.ac.th                    ⬛ ⬜ ⬛ ⬜ ⬛ ⬜ ⬜ ⬛ ⬛ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ ⬜ ⬛ 🟥 
+Relay                                   L  C  I  B  0  A  S  1  F  
+wss://nostr.dlcdevkit.com               🟩 🟩 🟩 🟩 🟩 🟩 🟩 ⬛ 🟥 
+wss://relay.dyne.org                    ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 🟥 
+wss://nostr.data.haus                   ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 
+wss://relay.camelus.app                 ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 
+wss://relayone.soundhsa.com             ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ 🟥 
+wss://relay.artio.inf.unibe.ch          ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 
+wss://relay.paulstephenborile.com       ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ 🟥 
+wss://nostr-relay.nextblockvending.com  ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ 🟥 
+wss://relay.mappingbitcoin.com          ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ 🟥 
+wss://relay.ru.ac.th                    ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 
 
+all unblocked: goguardian_ai, lanschool, sophos
 all error: palo, dnsfilter
-all blocked: gaggle, smoothwall
+all blocked: goguardian, securly, linewize, gaggle, content-keeper, fortiguard, smoothwall, deldao
