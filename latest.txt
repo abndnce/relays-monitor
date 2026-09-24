@@ -4,12 +4,12 @@ wss://relay.camelus.app              ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 🟥
 wss://relay.angor.io                 ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 🟥 
 wss://relay2.angor.io                ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 🟥 
 wss://relay.dwadziesciajeden.pl      ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 🟥 
-wss://relayone.soundhsa.com          ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 🟥 
 wss://relay.mostro.network           ⬜ ⬜ ⬜ ⬛ ⬜ ⬜ 🟥 
 wss://nostr.thalheim.io              ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ 🟥 
 wss://relay.nostriot.com             ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ 🟥 
 wss://nostr-relay.psfoundation.info  ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ 🟥 
+wss://nostr.vulpem.com               ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ 🟥 
 
 all unblocked: goguardian_ai, lanschool, aristotlek12
-all error: gaggle, palo, dnsfilter
-all blocked: goguardian, securly, linewize, content-keeper, fortiguard, smoothwall, cleanbrowsing, sophos, deldao
+all error: gaggle, dnsfilter
+all blocked: goguardian, securly, linewize, content-keeper, palo, fortiguard, smoothwall, cleanbrowsing, sophos, deldao
