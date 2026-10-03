@@ -1,15 +1,14 @@
-Relay                           L  I  B  0  S  
-wss://nostr.data.haus           🟩 🟩 🟩 🟩 🟩 
-wss://relay.wavlake.com         ⬜ ⬜ ⬜ ⬜ ⬜ 
-wss://relay.camelus.app         ⬜ ⬜ ⬜ ⬜ ⬜ 
-wss://strfry.bonsai.com         ⬜ ⬜ ⬜ ⬜ ⬜ 
-wss://relay.artio.inf.unibe.ch  ⬜ ⬜ ⬜ ⬜ ⬜ 
-wss://nostr.robosats.org        ⬜ ⬜ ⬜ ⬜ ⬜ 
-wss://chorus.bonsai.com         ⬜ ⬜ ⬜ ⬜ ⬜ 
-wss://nostr.dlcdevkit.com       ⬜ ⬜ ⬜ ⬜ ⬜ 
-wss://relay.dyne.org            ⬜ ⬜ ⬜ ⬜ ⬜ 
-wss://relay.ru.ac.th            ⬜ ⬜ ⬜ ⬜ ⬜ 
+Relay                                L  C  I  B  0  S  F  
+wss://nostr.data.haus                🟩 🟩 🟩 🟩 🟩 🟩 🟥 
+wss://relay.camelus.app              ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 🟥 
+wss://relay.angor.io                 ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 🟥 
+wss://relay2.angor.io                ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 🟥 
+wss://relay.dwadziesciajeden.pl      ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 🟥 
+wss://relayone.soundhsa.com          ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 🟥 
+wss://relay.mostro.network           ⬜ ⬜ ⬜ ⬛ ⬜ ⬜ 🟥 
+wss://nostr.thalheim.io              ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ 🟥 
+wss://relay.nostriot.com             ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ 🟥 
+wss://nostr-relay.psfoundation.info  ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ 🟥 
 
 all unblocked: goguardian_ai, lanschool, aristotlek12
-all error: cisco, forcepoint
 all blocked: goguardian, securly, linewize, gaggle, content-keeper, palo, fortiguard, smoothwall, cleanbrowsing, sophos, deldao
