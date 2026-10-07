@@ -1,15 +1,14 @@
-Relay                           L  I  B  0  S  F  
-wss://nostr.data.haus           🟩 🟩 🟩 🟩 🟩 🟥 
-wss://relay.wavlake.com         ⬜ ⬜ ⬜ ⬜ ⬜ 🟥 
-wss://relay.camelus.app         ⬜ ⬜ ⬜ ⬜ ⬜ 🟥 
-wss://strfry.bonsai.com         ⬜ ⬜ ⬜ ⬜ ⬜ 🟥 
-wss://relay.artio.inf.unibe.ch  ⬜ ⬜ ⬜ ⬜ ⬜ 🟥 
-wss://nostr.robosats.org        ⬜ ⬜ ⬜ ⬜ ⬜ 🟥 
-wss://chorus.bonsai.com         ⬜ ⬜ ⬜ ⬜ ⬜ 🟥 
-wss://nostr.dlcdevkit.com       ⬜ ⬜ ⬜ ⬜ ⬜ 🟥 
-wss://relay.dyne.org            ⬜ ⬜ ⬜ ⬜ ⬜ 🟥 
-wss://relay.ru.ac.th            ⬜ ⬜ ⬜ ⬜ ⬜ 🟥 
+Relay                                  L  C  I  B  0  A  S  F  
+wss://relay.paulstephenborile.com      🟩 🟩 🟩 🟩 🟩 🟩 ⬛ ⬛ 
+wss://cs-relay.nostrdev.com            ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ 🟩 ⬛ 
+wss://relay.minibolt.info              ⬜ ⬜ ⬜ ⬛ ⬜ ⬜ ⬜ ⬛ 
+wss://ynostr.yael.at                   ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ ⬛ 
+wss://relay.nostriches.club            ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ ⬛ 
+wss://relay-fra.zombi.cloudrodion.com  ⬜ ⬜ ⬜ ⬛ ⬜ ⬜ ⬛ ⬛ 
+wss://relay.plebeian.market            ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ ⬛ 
+wss://relay.nostrverse.net             ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ ⬛ 
+wss://relay-can.zombi.cloudrodion.com  ⬜ ⬜ ⬜ ⬛ ⬜ ⬜ ⬛ 🟥 
+wss://nostr.data.haus                  ⬜ 🟥 ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
 
-all unblocked: goguardian_ai, lanschool, aristotlek12
-all error: cisco, palo
-all blocked: goguardian, securly, linewize, gaggle, content-keeper, fortiguard, smoothwall, cleanbrowsing, sophos, deldao
+all unblocked: goguardian_ai, lanschool
+all blocked: goguardian, securly, linewize, gaggle, content-keeper, palo, fortiguard, smoothwall, cleanbrowsing, sophos, deldao
