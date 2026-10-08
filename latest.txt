@@ -1,14 +1,14 @@
-Relay                                  L  C  I  B  0  A  S  F  
-wss://relay.paulstephenborile.com      🟩 🟩 🟩 🟩 🟩 🟩 ⬛ ⬛ 
-wss://cs-relay.nostrdev.com            ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ 🟩 ⬛ 
-wss://relay.minibolt.info              ⬜ ⬜ ⬜ ⬛ ⬜ ⬜ ⬜ ⬛ 
-wss://ynostr.yael.at                   ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ ⬛ 
-wss://relay.nostriches.club            ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ ⬛ 
-wss://relay-fra.zombi.cloudrodion.com  ⬜ ⬜ ⬜ ⬛ ⬜ ⬜ ⬛ ⬛ 
-wss://relay.plebeian.market            ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ ⬛ 
-wss://relay.nostrverse.net             ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ ⬛ 
-wss://relay-can.zombi.cloudrodion.com  ⬜ ⬜ ⬜ ⬛ ⬜ ⬜ ⬛ 🟥 
-wss://nostr.data.haus                  ⬜ 🟥 ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
+Relay                                  L  C  I  B  0  S  F  
+wss://relay.paulstephenborile.com      🟩 🟩 🟩 🟩 🟩 ⬛ ⬛ 
+wss://cs-relay.nostrdev.com            ⬜ ⬜ ⬜ ⬜ ⬛ 🟩 ⬛ 
+wss://relay.minibolt.info              ⬜ ⬜ ⬜ ⬛ ⬜ ⬜ ⬛ 
+wss://nostr-relay.corb.net             ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ 
+wss://ynostr.yael.at                   ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ ⬛ 
+wss://relay.nostriches.club            ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ ⬛ 
+wss://relay-fra.zombi.cloudrodion.com  ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ ⬛ 
+wss://relay.plebeian.market            ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ ⬛ 
+wss://relay.nostrverse.net             ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ ⬛ 
+wss://relay-can.zombi.cloudrodion.com  ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ ⬛ 
 
-all unblocked: goguardian_ai, lanschool
+all unblocked: goguardian_ai, lanschool, aristotlek12
 all blocked: goguardian, securly, linewize, gaggle, content-keeper, palo, fortiguard, smoothwall, cleanbrowsing, sophos, deldao
