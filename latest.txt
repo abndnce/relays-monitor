@@ -1,5 +1,7 @@
 Relay                                    L  C  I  B  0  S  1  
 wss://nostr.data.haus                    🟩 🟩 🟩 🟩 🟩 🟩 ⬛ 
+wss://relay.camelus.app                  ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
+wss://relay.artio.inf.unibe.ch           ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
 wss://relay.angor.io                     ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ 
 wss://relay2.angor.io                    ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ 
 wss://relay.dwadziesciajeden.pl          ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ 
@@ -7,8 +9,6 @@ wss://relayone.soundhsa.com              ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛
 wss://relay.staging.commonshub.brussels  ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ 
 wss://relay.mostro.network               ⬜ ⬜ ⬜ ⬛ ⬜ ⬜ ⬛ 
 wss://nostr.thalheim.io                  ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ 
-wss://relay.nostriot.com                 ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ 
-wss://nostr-relay.psfoundation.info      ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬛ 
 
 all unblocked: goguardian_ai, lanschool, aristotlek12
 all blocked: goguardian, securly, linewize, gaggle, content-keeper, palo, fortiguard, smoothwall, sophos, deldao, forcepoint
