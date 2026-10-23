@@ -1,14 +1,15 @@
-Relay                           L  C  I  B  0  S  F  
-wss://nostr.data.haus           🟩 🟩 🟩 🟩 🟩 🟩 ⬛ 
-wss://relay.camelus.app         ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://relay.artio.inf.unibe.ch  ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://relay.dyne.org            ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://relay.ru.ac.th            ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://kasztanowa.bieda.it       ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://nostr2.thalheim.io        ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://relay1.privkey.io         ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://relay.sovrgn.co.za        ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://relay.angor.io            ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ 
+Relay                           G  L  0  C  I  B  1  S  
+wss://nostr.data.haus           ⬛ 🟩 🟩 🟩 🟩 🟩 🟩 🟩 
+wss://relay.camelus.app         🟥 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://relay.artio.inf.unibe.ch  ⬛ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://nostr.dlcdevkit.com       ⬛ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://relay.dyne.org            🟥 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://relay.ru.ac.th            ⬛ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://kasztanowa.bieda.it       ⬛ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://nostr2.thalheim.io        ⬛ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://relay1.privkey.io         ⬛ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://relay.sovrgn.co.za        ⬛ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 
 
-all unblocked: goguardian_ai, lanschool, aristotlek12
-all blocked: goguardian, securly, linewize, gaggle, content-keeper, palo, fortiguard, smoothwall, cleanbrowsing, sophos, deldao
+all unblocked: lanschool, aristotlek12
+all error: forcepoint
+all blocked: securly, linewize, gaggle, content-keeper, palo, fortiguard, smoothwall, cleanbrowsing, sophos, deldao
