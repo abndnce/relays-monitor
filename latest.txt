@@ -1,14 +1,14 @@
 Relay                                C  I  B  0  S  F  
-wss://nostr.data.haus                🟩 🟩 🟩 🟩 🟩 ⬛ 
-wss://yabu.me                        ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://relay.camelus.app              ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
+wss://relay.camelus.app              🟩 🟩 🟩 🟩 🟩 ⬛ 
 wss://staging.yabu.me                ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
 wss://relay.arx-ccn.com              ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
 wss://articles.layer3.news           ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
+wss://relay.nostriot.com             ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
 wss://relay-testnet.k8s.layer3.news  ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
 wss://x.kojira.io                    ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
 wss://relay.libernet.app             ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
 wss://relay.lacompagniemaximus.com   ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
+wss://relay.artio.inf.unibe.ch       ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
 
 all unblocked: lightspeed, goguardian_ai, lanschool, aristotlek12
 all blocked: goguardian, securly, linewize, gaggle, content-keeper, palo, fortiguard, smoothwall, dnsfilter, cleanbrowsing, sophos, deldao
