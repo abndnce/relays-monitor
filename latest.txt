@@ -1,14 +1,14 @@
-Relay                                C  I  B  0  S  F  
-wss://relay.camelus.app              🟩 🟩 🟩 🟩 🟩 ⬛ 
-wss://staging.yabu.me                ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://relay.arx-ccn.com              ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://articles.layer3.news           ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://relay.nostriot.com             ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://relay-testnet.k8s.layer3.news  ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://x.kojira.io                    ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://relay.libernet.app             ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://relay.lacompagniemaximus.com   ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://relay.artio.inf.unibe.ch       ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ 
+Relay                                L  C  I  B  0  S  
+wss://relay.camelus.app              🟩 🟩 🟩 🟩 🟩 🟩 
+wss://staging.yabu.me                ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://relay.agorist.space            ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://relay.arx-ccn.com              ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://articles.layer3.news           ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://relay.nostriot.com             ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://relay-testnet.k8s.layer3.news  ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://x.kojira.io                    ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://relay.libernet.app             ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://relay.lacompagniemaximus.com   ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 
 
-all unblocked: lightspeed, goguardian_ai, lanschool, aristotlek12
-all blocked: goguardian, securly, linewize, gaggle, content-keeper, palo, fortiguard, smoothwall, dnsfilter, cleanbrowsing, sophos, deldao
+all unblocked: goguardian_ai, lanschool, aristotlek12
+all blocked: goguardian, securly, linewize, gaggle, content-keeper, palo, fortiguard, smoothwall, dnsfilter, cleanbrowsing, sophos, deldao, forcepoint
