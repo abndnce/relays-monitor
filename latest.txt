@@ -1,15 +1,15 @@
-Relay                                G  I  B  0  S  F  
-wss://relay.wavlake.com              ⬛ 🟩 🟩 🟩 🟩 ⬛ 
-wss://nostr-02.yakihonne.com         ⬛ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://relay.camelus.app              ⬛ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://staging.yabu.me                ⬛ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://relay.agorist.space            ⬛ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://relay.arx-ccn.com              ⬛ ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://articles.layer3.news           ⬛ ⬜ ⬜ ⬜ ⬜ 🟥 
-wss://relay.nostriot.com             🟥 ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://relay-testnet.k8s.layer3.news  🟥 ⬜ ⬜ ⬜ ⬜ ⬛ 
-wss://x.kojira.io                    🟥 ⬜ ⬜ ⬜ ⬜ ⬛ 
+Relay                                G  I  B  0  S  
+wss://relay.wavlake.com              ⬛ 🟩 🟩 🟩 🟩 
+wss://nostr-02.yakihonne.com         ⬛ ⬜ ⬜ ⬜ ⬜ 
+wss://relay.camelus.app              ⬛ ⬜ ⬜ ⬜ ⬜ 
+wss://staging.yabu.me                ⬛ ⬜ ⬜ ⬜ ⬜ 
+wss://relay.agorist.space            ⬛ ⬜ ⬜ ⬜ ⬜ 
+wss://relay.arx-ccn.com              ⬛ ⬜ ⬜ ⬜ ⬜ 
+wss://articles.layer3.news           ⬛ ⬜ ⬜ ⬜ ⬜ 
+wss://relay.nostriot.com             ⬛ ⬜ ⬜ ⬜ ⬜ 
+wss://relay-testnet.k8s.layer3.news  ⬛ ⬜ ⬜ ⬜ ⬜ 
+wss://x.kojira.io                    ⬛ ⬜ ⬜ ⬜ ⬜ 
 
 all unblocked: lightspeed, goguardian_ai, lanschool, aristotlek12
 all error: cisco
-all blocked: goguardian, securly, linewize, content-keeper, palo, fortiguard, smoothwall, dnsfilter, cleanbrowsing, sophos, deldao
+all blocked: goguardian, securly, linewize, content-keeper, palo, fortiguard, smoothwall, dnsfilter, cleanbrowsing, sophos, deldao, forcepoint
