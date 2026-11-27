@@ -1,15 +1,15 @@
-Relay                                C  I  B  0  S  1  F  
-wss://relay.camelus.app              🟩 🟩 🟩 🟩 🟩 ⬛ ⬛ 
-wss://staging.yabu.me                ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ 
-wss://relay.arx-ccn.com              ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ 
-wss://articles.layer3.news           ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ 
-wss://relay.nostriot.com             ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ 
-wss://relay-testnet.k8s.layer3.news  ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ 
-wss://x.kojira.io                    ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ 
-wss://relay.libernet.app             ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ 
-wss://relay.lacompagniemaximus.com   ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ 
-wss://relay.artio.inf.unibe.ch       ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬛ 
+Relay                                C  I  B  0  S  
+wss://relay.camelus.app              🟩 🟩 🟩 🟩 🟩 
+wss://staging.yabu.me                ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://relay.arx-ccn.com              ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://articles.layer3.news           ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://relay.nostriot.com             ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://relay-testnet.k8s.layer3.news  ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://x.kojira.io                    ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://relay.libernet.app             ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://relay.lacompagniemaximus.com   ⬜ ⬜ ⬜ ⬜ ⬜ 
+wss://relay.artio.inf.unibe.ch       ⬜ ⬜ ⬜ ⬜ ⬜ 
 
 all unblocked: lightspeed, goguardian_ai, lanschool, aristotlek12
 all error: symantec
-all blocked: goguardian, securly, linewize, gaggle, content-keeper, palo, fortiguard, smoothwall, dnsfilter, sophos, deldao
+all blocked: goguardian, securly, linewize, gaggle, content-keeper, palo, fortiguard, smoothwall, dnsfilter, cleanbrowsing, sophos, deldao, forcepoint
